@@ -1,6 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyein's&nbsp;Github&fontSize=90" />
 
 <div align="center">
+   <h2>skill</h2>
+</div>
+
+<div align="center">
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&amp;logoColor=white" />   
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white" />
