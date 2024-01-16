@@ -2,6 +2,7 @@
 
 	
 <table>
+  <tr>
 	<td>
 		<div align=center>
 			<h3>📚 Tech Stack 📚</h3>
@@ -36,6 +37,7 @@
 		  </div>
 		</div>
  	</td>
+  </tr>
 </table>
 
 <div align=center>
