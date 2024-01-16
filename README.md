@@ -2,7 +2,7 @@
 
 	
 <table>
-	<tr>
+	<td>
 		<div align=center>
 			<h3>📚 Tech Stack 📚</h3>
 		</div>
@@ -19,9 +19,9 @@
 		   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 		</div>
 		<br><br>	
-	</tr>
+	</td>
 
- 	<tr>
+ 	<td>
 		<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 		<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
 		  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
@@ -35,7 +35,7 @@
 		    </a>
 		  </div>
 		</div>
- 	</tr>
+ 	</td>
 </table>
 
 <div align=center>
