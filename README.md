@@ -7,25 +7,6 @@
 </div>
 <br>
 
-<table align=center>
-<tr>
- <td>
-<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
-<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
-  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
-  <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
-  <div key="6">
-    <a href = "https://oreuda.kr/">
-      <img
-        src=https://oreuda.kr/api/v1/plant/card?nickname=0Hyein0
-        alt="oreuda"
-      />
-    </a>
-  </div>
-</div>
- </td>
- 
-<td>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
@@ -40,7 +21,20 @@
    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </div>
-</td>
-</tr>
-</table>
+
+
+<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
+<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
+  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
+  <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
+  <div key="6">
+    <a href = "https://oreuda.kr/">
+      <img
+        src=https://oreuda.kr/api/v1/plant/card?nickname=0Hyein0
+        alt="oreuda"
+      />
+    </a>
+  </div>
+</div>
+
 
