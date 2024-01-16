@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB788&height=200&section=header&text=Hyein's&nbsp;Github&fontSize=90&fontColor=ffffff" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB788&height=200&section=header&text=Welcome!<br>Hyein's&nbsp;Github&fontSize=90&fontColor=ffffff" />
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
