@@ -1,9 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB788&height=200&section=header&text=Hyein's&nbsp;Github&fontSize=90&fontColor=ffffff" />
 
+<table>
+<tr>
+<td>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 </div>
-<div align="center">
+<div align=center>
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&amp;logoColor=white" />   
    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
    <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white" />
@@ -14,7 +17,9 @@
    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </div>
-<br><br>
+</td>
+
+ <td>
 <div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
@@ -28,6 +33,9 @@
     </a>
   </div>
 </div>
+ </td>
+</tr>
+</table>
 
 
 <div align=center>
