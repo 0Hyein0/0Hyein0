@@ -23,7 +23,7 @@
 </div>
 <br>
 
-(https://github-readme-stats.vercel.app/api?username=0Hyein0&show_icons=true&theme=calma&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![0Hyein0's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Hyein0&show_icons=true&theme=calm&count_private=true)
 
 
 [![Solved.ac
