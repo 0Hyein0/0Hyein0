@@ -23,8 +23,21 @@
 </div>
 <br>
 
-![0Hyein0's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Hyein0&show_icons=true&theme=calm&count_private=true)
+<!--
+<table>
+	<tr>
+	<td align="center">
+		<p>
+		<img src="https://github-readme-stats.vercel.app/api?username=0Hyein0&show_icons=true&theme=calm&count_private=true"/>
+		</p>
+  	</td>
 
+	<td align="center">
+ 		<p>
+   		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=i_can_do_it_77)](https://solved.ac/i_can_do_it_77"/>
+     		</p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=i_can_do_it_77)](https://solved.ac/i_can_do_it_77)
+ 	</td>
+	</tr>
+</table>
+-->
