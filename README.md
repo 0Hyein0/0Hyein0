@@ -23,21 +23,11 @@
 </div>
 <br>
 
-<!--
-<table>
-	<tr>
-	<td align="center">
-		<p>
-		<img src="https://github-readme-stats.vercel.app/api?username=0Hyein0&show_icons=true&theme=calm&count_private=true"/>
-		</p>
-  	</td>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=0Hyein0&show_icons=true&include_all_commits=true&theme=buefy"/>
+</div>
 
-	<td align="center">
- 		<p>
-   		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=i_can_do_it_77)](https://solved.ac/i_can_do_it_77"/>
-     		</p>
 
- 	</td>
-	</tr>
-</table>
--->
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB788&height=150&section=footer"/>
+</div>
