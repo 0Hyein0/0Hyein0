@@ -21,10 +21,10 @@
    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </div>
-<br>
+<br><br>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=0Hyein0&show_icons=true&include_all_commits=true&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0Hyein0&show_icons=true&include_all_commits=true&theme=calm_pink"/>
 </div>
 
 
