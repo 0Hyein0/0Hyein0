@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB788&height=200&section=header&text=Hyein's&nbsp;Github&fontSize=90&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB788&height=150&section=header&text=Hyein's&nbsp;Github&fontSize=50&fontColor=ffffff" />
 </div>
 
 <div align=center>
@@ -29,5 +29,5 @@
 
 
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB788&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB788&height=100&section=footer"/>
 </div>
