@@ -23,10 +23,18 @@
 </div>
 <br><br>
 
+<div align="center">
+  <a href="https://solved.ac/i_can_do_it_77/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=i_can_do_it_77" alt="Solved.ac Profile"/>
+  </a>
+</div>
+
+
+<!--
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=0Hyein0&show_icons=true&include_all_commits=true&theme=calm_pink"/>
 </div>
-
+-->
 
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB788&height=100&section=footer"/>
